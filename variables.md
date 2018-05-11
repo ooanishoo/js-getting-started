@@ -1,4 +1,4 @@
-#Variables
+# Variables
 
 In JavaScript, variable names (including function names) must be valid identifiers.
 An identifier must start with a-z, A-Z, $, or _. 
