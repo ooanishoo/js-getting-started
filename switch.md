@@ -1,5 +1,7 @@
+
 #Switch
-```
+
+```javascript
 
 function foo() {
     var a = prompt("enter a string");
