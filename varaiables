@@ -4,7 +4,7 @@ It can then contain any of thosecharacters plus the numerals 0-9
 
 var $ = "hello world";
 var _ = "hey there";
-console.log
+
 ```javascript
 
 function foo(){
