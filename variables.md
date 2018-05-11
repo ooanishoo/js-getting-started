@@ -1,0 +1,22 @@
+#Variables
+
+In JavaScript, variable names (including function names) must be valid identifiers.
+An identifier must start with a-z, A-Z, $, or _. 
+It can then contain any of thosecharacters plus the numerals 0-9
+
+var $ = "hello world";
+var _ = "hey there";
+
+```javascript
+
+function foo(){
+  if(1<2){
+    var a = 5;
+    let b = 6;
+  }
+  console.log(a);
+  console.log(b);
+}
+foo();
+
+```
